@@ -18,7 +18,7 @@ channel.send(`شسيبلكمشسيلشستليشجسيلهيبلشسلش9سيب�
 }, 25)
 })
 
-var prefix = "1";
+var prefix = "7";
 
 client.on('message', message => {
 
